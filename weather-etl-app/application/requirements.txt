@@ -1,0 +1,6 @@
+requests
+pandas
+s3fs
+boto3
+datetime
+calender
